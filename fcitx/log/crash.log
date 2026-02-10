@@ -1,0 +1,15 @@
+=========================
+FCITX 4.2.9.9 -- Get Signal No.: 11
+Date: try "date -d @1757801694" if you are using GNU date ***
+ProcessID: 4732
+fcitx(+0x184e) [0x558aee5bc84e]
+/usr/lib/libc.so.6(+0x3e540) [0x7f0a3463e540]
+/usr/lib/fcitx/fcitx-classic-ui.so(+0xb337) [0x7f0a30a39337]
+/usr/lib/fcitx/fcitx-classic-ui.so(+0x1099a) [0x7f0a30a3e99a]
+/usr/lib/fcitx/fcitx-classic-ui.so(+0x11726) [0x7f0a30a3f726]
+/usr/lib/libfcitx-core.so.0(+0x15e7a) [0x7f0a348f1e7a]
+/usr/lib/libfcitx-core.so.0(FcitxInstanceRun+0x5f) [0x7f0a348f27cf]
+fcitx(+0x1202) [0x558aee5bc202]
+/usr/lib/libc.so.6(+0x27675) [0x7f0a34627675]
+/usr/lib/libc.so.6(__libc_start_main+0x89) [0x7f0a34627729]
+fcitx(+0x12c5) [0x558aee5bc2c5]
